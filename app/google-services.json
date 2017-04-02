@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "269415025607",
+    "firebase_url": "https://la-hacks-dadc6.firebaseio.com",
+    "project_id": "la-hacks-dadc6",
+    "storage_bucket": "la-hacks-dadc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269415025607:android:0cba54e2cd45c95d",
+        "android_client_info": {
+          "package_name": "com.example.ujjwal.spendtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269415025607-g8ieki64gcp2q1i182qre0fe5d4iqj0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRtaj8p8knrBu9_18xY7vHVHsE6cFvoBM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
